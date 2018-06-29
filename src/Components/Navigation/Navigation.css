@@ -1,0 +1,16 @@
+nav{
+    overflow: hidden;
+}
+
+nav a{
+    border-bottom: 3px solid transparent;
+}
+
+nav a:hover{
+    background-color: #1F2A30;
+    border-bottom: 3px solid #1DE2D0;
+}
+
+nav a.active{
+    border-bottom: 3px solid #1DE2D0;
+}

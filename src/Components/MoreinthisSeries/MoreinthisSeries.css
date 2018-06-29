@@ -1,0 +1,16 @@
+hr{
+    display: block;
+    border-color: #E9E7E8;
+    border-width: 4px;
+  
+  } 
+
+#items h2{
+    color: #1ED6CA;
+}
+
+#items img{
+    width: 150px;
+    height: 150px;
+
+}

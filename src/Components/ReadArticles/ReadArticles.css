@@ -1,0 +1,19 @@
+hr{
+    display: block;
+    border-color: #E9E7E8;
+    border-width: 4px;
+  
+  } 
+
+
+#articlecard{
+    background-color: white;
+}
+
+#article{
+    background-color: #fff;
+}
+
+#article h2{
+    color: #1ED6CA;
+}

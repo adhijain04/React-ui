@@ -1,0 +1,28 @@
+footer{
+    background-color: #28373E;
+    
+}
+
+footer h5{
+    text-align: center;
+    color: #fff;
+}
+
+footer ul{
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li{
+    text-align: center;
+
+}
+
+footer ul li a{
+    color: #6C7F85;
+}
+
+footer ul li a:hover{
+    text-decoration: none;
+    color: white;
+}

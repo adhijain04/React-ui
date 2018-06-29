@@ -1,0 +1,25 @@
+/* .App {
+  text-align: center;
+} */
+
+#homeSection{
+  position: relative;
+  min-height: 350px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.primaryOverlay{
+  background-color: rgb(0,0,0,0.6);
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  min-height: 100%;
+}
+
+#heading{
+  margin-top: 20%;
+}
+
